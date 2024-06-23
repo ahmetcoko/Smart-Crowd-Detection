@@ -22,6 +22,13 @@ Ultralytics YOLO: Utilized for object detection tasks.
 
 Smart Crowd Detection is a project developed as part of a CENG483(Behavioral Robotics) course term project. The aim of this project is a simultaneous and total bird's eye heat map visualization that provides an intuitive visualization of high-traffic areas and tracks the movements of individuals with the help of YOLOv8  in the space using the homography transformation method over a single camera orientation by assigning different color intensities to different areas depending on the density of pedestrian traffic, the heat map can provide valuable information on space usage and passenger behavior by highlighting areas with high activity or traffic congestion.
 
+
+
+https://github.com/ahmetcoko/Smart-Crowd-Detection/assets/158578355/799fa7fb-764e-4ad3-b3e4-f66c78720e41
+
+
+
+
 Perpective transformation on a frame
 ![image](https://github.com/ahmetcoko/Smart-Crowd-Detection/assets/158578355/20de6b62-1570-4a64-bf0d-a5b978e08436)
 
